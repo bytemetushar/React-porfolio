@@ -1,7 +1,6 @@
-
-
+@import url('https://fonts.google.com/share?selection.family=Share+Tech');
 :root{
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Roboto';
   --yellow-theme-background-color: #1d1d1d;
   --yellow-theme-main-color: #ffdd40;
   --yellow-theme-sub-text-color: #ffffff;
